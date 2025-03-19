@@ -13,7 +13,7 @@ What things you need to install the software and how to install them
 ```
 A GitHub account and internet access
 Visual Studio 2017
-Git repo: https://github.com/JaredMorton/ContactForm
+Git repo: https://github.com/jamorton19/ContactForm
 ```
 
 ### Usage
@@ -31,7 +31,7 @@ Double-click on a row to edit a contact, or click the "New Contact" button to ad
 
 ## Author
 
-* **Jared Morton** - *Initial work* - [ContactForm](https://github.com/JaredMorton/ContactForm)
+* **Jared Morton** - *Initial work* - [ContactForm](https://github.com/jamorton19/ContactForm)
 
 ## Acknowledgments
 
