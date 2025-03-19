@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7735B23-26F0-4926-BC04-4C47921E4566}|ContactForm\\ContactForm.Web.csproj|C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\contactform\\views\\contact\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7735B23-26F0-4926-BC04-4C47921E4566}|ContactForm\\ContactForm.Web.csproj|solutionrelative:contactform\\views\\contact\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7735B23-26F0-4926-BC04-4C47921E4566}|ContactForm\\ContactForm.Web.csproj|c:\\users\\hunte\\onedrive\\desktop\\contactform\\contactform\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7735B23-26F0-4926-BC04-4C47921E4566}|ContactForm\\ContactForm.Web.csproj|solutionrelative:contactform\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7735B23-26F0-4926-BC04-4C47921E4566}|ContactForm\\ContactForm.Web.csproj|C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\contactform\\views\\contact\\_contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7735B23-26F0-4926-BC04-4C47921E4566}|ContactForm\\ContactForm.Web.csproj|solutionrelative:contactform\\views\\contact\\_contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7735B23-26F0-4926-BC04-4C47921E4566}|ContactForm\\ContactForm.Web.csproj|C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\contactform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7735B23-26F0-4926-BC04-4C47921E4566}|ContactForm\\ContactForm.Web.csproj|solutionrelative:contactform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\ContactForm\\Views\\Contact\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "ContactForm\\Views\\Contact\\Contacts.cshtml",
+              "ToolTip": "C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\ContactForm\\Views\\Contact\\Contacts.cshtml",
+              "RelativeToolTip": "ContactForm\\Views\\Contact\\Contacts.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T00:16:27.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\ContactForm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContactForm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\ContactForm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContactForm\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:16:23.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\ContactForm\\Views\\Contact\\_Contact.cshtml",
+              "RelativeDocumentMoniker": "ContactForm\\Views\\Contact\\_Contact.cshtml",
+              "ToolTip": "C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\ContactForm\\Views\\Contact\\_Contact.cshtml",
+              "RelativeToolTip": "ContactForm\\Views\\Contact\\_Contact.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T00:14:50.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\ContactForm\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactForm\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\hunte\\OneDrive\\Desktop\\ContactForm\\ContactForm\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactForm\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:07:17.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

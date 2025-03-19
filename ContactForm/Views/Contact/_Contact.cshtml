@@ -1,0 +1,39 @@
+﻿@model ContactForm.Data.Models.Contact
+
+@using (Html.BeginCollectionItem("contacts"))
+{
+
+    <td style="display:none;">
+        @Html.EditorFor(m => m.ContactID, new { htmlAttributes = new { @id = "lblContactID" }, style = "display:none" })
+    </td>
+    <td>
+        @Html.EditorFor(m => m.Prefix, new { htmlAttributes = new { @id = "lblPrefix", @class = "webgrid-row-style", @readonly = "readyonly", style = "width: 75px" } })
+    </td>
+    <td>
+        @Html.EditorFor(m => m.FirstName, new { htmlAttributes = new { @id = "lblFirstName", @class = "webgrid-row-style", @readonly = "readyonly", style = "width: 115px" } })
+    </td>
+    <td>
+        @Html.EditorFor(m => m.MiddleName, new { htmlAttributes = new { @id = "lblMiddleName", @class = "webgrid-row-style", @readonly = "readyonly", style = "width: 115px" } })
+    </td>
+    <td>
+        @Html.EditorFor(m => m.LastName, new { htmlAttributes = new { @id = "lblLastName", @class = "webgrid-row-style", @readonly = "readyonly", style = "width: 115px" } })
+    </td>
+    <td>
+        @Html.EditorFor(m => m.Address.Street, new { htmlAttributes = new { @id = "lblStreet", @class = "webgrid-row-style", @readonly = "readyonly", style = "width: 150px" } })
+    </td>
+    <td>
+        @Html.EditorFor(m => m.Address.City, new { htmlAttributes = new { @id = "lblCity", @class = "webgrid-row-style", @readonly = "readyonly", style = "width: 115px" } })
+    </td>
+    <td>
+        @Html.EditorFor(m => m.Address.State, new { htmlAttributes = new { @id = "lblState", @class = "webgrid-row-style", @readonly = "readyonly", style = "width: 115px" } })
+    </td>
+    <td>
+        @Html.EditorFor(m => m.Address.Zip, new { htmlAttributes = new { @id = "lblZip", @class = "webgrid-row-style", @readonly = "readyonly", style = "width: 115px" } })
+    </td>
+    <td>
+        <button type="button" id="deleteContact">Delete</button>
+    </td>
+    <td>
+        <button type="button" id="editContact">Edit</button>
+    </td>
+}
